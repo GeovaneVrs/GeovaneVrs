@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Geovane Valerio
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 Me chamo Geovane Valerio, tenho 19 anos e sou natural de Pernambuco. Atualmente, estou cursando Ciência da Computação na UNINASSAU.
 
