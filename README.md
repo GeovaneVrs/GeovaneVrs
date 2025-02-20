@@ -110,16 +110,22 @@ Me chamo Geovane Valerio, tenho 19 anos e sou natural de Pernambuco. Atualmente,
 
 ### 📊 Estatísticas
 
-<div style="display: flex; align-items: center;">
-  <img 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=GeovaneVrs&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+<table>
+  <tr>
+    <td>
+      <img 
+        alt="GitHub Stats" 
+        height="200" 
+        src="https://github-readme-stats.vercel.app/api?username=GeovaneVrs&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+      />
+    </td>
+    <td>
+      <img 
+        alt="GitHub Stats" 
+        height="200" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeovaneVrs&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      />
+    </td>
+  </tr>
+</table>
 
-  <img 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeovaneVrs&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</div>
