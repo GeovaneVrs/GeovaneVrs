@@ -105,6 +105,14 @@ Me chamo Geovane Valerio, tenho 19 anos e sou natural de Pernambuco. Atualmente,
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+<img 
+    align="left" 
+    alt="Lua" 
+    title="Lua"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/lua-original.svg" 
+/>
 <br/>
 <br/>
 
