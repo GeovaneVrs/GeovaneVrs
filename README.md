@@ -6,7 +6,7 @@ Apaixonado por tecnologia e desenvolvimento web, busco sempre criar soluções p
 
 ## 🧑‍💻 Sobre Mim
 
-- 🎓 **Faculdade:** Estudante de **Ciencia da Computação** no UNINASSAU.  
+- 🎓 **Faculdade:** Estudante de **Ciencia da Computação** na UNINASSAU.  
 - 🌱 **Foco Atual:** Desenvolvimento de aplicações web e mobile.  
 - 🎯 **Objetivo:** Criar soluções práticas e intuitivas para atender às necessidades dos usuários.  
 
