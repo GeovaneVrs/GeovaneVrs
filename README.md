@@ -24,8 +24,8 @@ Apaixonado por tecnologia e desenvolvimento web, busco sempre criar soluções p
   <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" title="Lua" alt="Lua" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vite/vite-original.svg" title="Vite" alt="Vite" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40"/>&nbsp;
+   <img src="https://vitejs.dev/logo-with-shadow.png" title="Vite" alt="Vite" width="40" height="40" style="background-color: #1a1a1a; border-radius: 12px; padding: 5px;" />&nbsp;
+ <img src="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/HEAD/.github/logo-light.svg" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40" style="background-color: #1a1a1a; border-radius: 12px; padding: 5px;" />&nbsp;
 </div>
 
 
