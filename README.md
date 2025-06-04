@@ -1,12 +1,11 @@
-# 👋 Olá, sou **Geovane Valerio**
-
-Apaixonado por tecnologia e desenvolvimento web, busco sempre criar soluções práticas e eficientes. Atualmente, estou cursando Ciencia da Computação na UNINASSAU.
+<h1 align="center">👋 Olá, sou Geovane Valerio</h1>
+<p align="center">💻 Desenvolvedor Web apaixonado por transformar ideias em soluções reais</p>
 
 ---
 
 ## 🧑‍💻 Sobre Mim
 
-- 🎓 **Faculdade:** Estudante de **Ciencia da Computação** na UNINASSAU.  
+- 🎓 **Faculdade:** Estudante de **Ciência da Computação** na UNINASSAU.  
 - 🌱 **Foco Atual:** Desenvolvimento de aplicações web e mobile.  
 - 🎯 **Objetivo:** Criar soluções práticas e intuitivas para atender às necessidades dos usuários.  
 
@@ -14,29 +13,27 @@ Apaixonado por tecnologia e desenvolvimento web, busco sempre criar soluções p
 
 ## 🚀 Tecnologias que uso
 
-<div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJS" alt="NextJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" title="Lua" alt="Lua" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
-  <img src="https://vitejs.dev/logo-with-shadow.png" title="Vite" alt="Vite" width="40" height="40" style="background-color: #1a1a1a; border-radius: 12px; padding: 5px;" />&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" title="Tailwind CSS" alt="Tailwind CSS" width="48" height="48" style="background-color: #1a1a1a; border-radius: 12px; padding: 4px;" />&nbsp;
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJS" alt="NextJS" width="48" height="48"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="48" height="48"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="48" height="48"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="48" height="48"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="48" height="48"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="48" height="48"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" title="Lua" alt="Lua" width="48" height="48"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="48" height="48"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="48" height="48"/>
+  <img src="https://vitejs.dev/logo-with-shadow.png" title="Vite" alt="Vite" width="48" height="48" style="background-color: #1a1a1a; border-radius: 12px; padding: 4px;"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" title="Tailwind CSS" alt="Tailwind CSS" width="48" height="48" style="background-color: #1a1a1a; border-radius: 12px; padding: 4px;"/>
 </div>
-
-
 
 ---
 
 ## 📊 Estatísticas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GeovaneVrs&theme=radical&show_icons=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeovaneVrs&theme=radical&layout=compact" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GeovaneVrs&show_icons=true&theme=radical&border_radius=15" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeovaneVrs&layout=compact&theme=radical&border_radius=15" alt="Top Languages"/>
 </div>
 
 ---
@@ -44,6 +41,7 @@ Apaixonado por tecnologia e desenvolvimento web, busco sempre criar soluções p
 ## 🌐 Onde me encontrar
 
 <div align="center">
+  <p>Vamos nos conectar no LinkedIn?</p>
   <a href="https://www.linkedin.com/in/geovane-valerio-213175297/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -52,5 +50,5 @@ Apaixonado por tecnologia e desenvolvimento web, busco sempre criar soluções p
 ---
 
 <div align="center">
-  <em>“A paixão por tecnologia e o desejo de aprender são as chaves para o sucesso.”</em>
+ <em>“A paixão por tecnologia e o desejo de aprender são as chaves para o sucesso.”</em>
 </div>
