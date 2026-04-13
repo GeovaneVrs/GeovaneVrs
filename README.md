@@ -28,18 +28,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" title="Electron" alt="Electron" width="48" height="48"/>
 </div>
 
-
----
-
-## 📊 Estatísticas
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GeovaneVrs&show_icons=true&theme=radical&border_radius=15" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeovaneVrs&layout=compact&theme=radical&border_radius=15" alt="Top Languages"/>
-</div>
-
----
-
 ## 🌐 Onde me encontrar
 
 <div align="center">
