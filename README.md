@@ -70,15 +70,6 @@ const geovane = {
 
 ---
 
-## 🐍 Contribuições
-
-<div align="center">
-
-<!-- Snake animation — gerado via GitHub Actions (ver instruções abaixo) -->
-<img src="https://raw.githubusercontent.com/GeovaneVrs/GeovaneVrs/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
-
-</div>
-
 ## 🌐 Conecte-se
 
 <div align="center">
