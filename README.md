@@ -70,18 +70,6 @@ const geovane = {
 
 </div>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=GeovaneVrs&theme=dark&hide_border=true&background=050a0e&ring=00ff88&fire=00e5ff&currStreakLabel=00ff88&sideLabels=e2f0ff&dates=5a7a9a)
-
-</div>
-
----
-
 ## 🌐 Conecte-se
 
 <div align="center">
