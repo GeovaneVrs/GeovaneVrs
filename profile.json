@@ -1,0 +1,55 @@
+{
+  "username": "GeovaneVrs",
+  "avatar_id": 128635065,
+  "first": "Geovane",
+  "last": "Valerio",
+  "eyebrow": "IA, dados e banco",
+  "bio": [
+    "Inteligência artificial, dados e bancos.",
+    "Ciência da Computação, UNINASSAU."
+  ],
+  "place": "Jaboatão dos Guararapes · Brasil",
+  "links": {
+    "github": "https://github.com/GeovaneVrs",
+    "linkedin": "https://www.linkedin.com/in/geovane-valerio-213175297/"
+  },
+  "tiles": [
+    {
+      "id": "ia",
+      "label": "IA",
+      "href": "https://github.com/GeovaneVrs",
+      "bg": "#2f5bff",
+      "fg": "#f7f8ff",
+      "sheen": "#ffffff",
+      "number": "ML",
+      "word": "modelos",
+      "lines": ["Python e scikit-learn.", "Do notebook ao problema real."],
+      "alt": "IA. Modelos com Python e scikit-learn, do notebook ao problema real."
+    },
+    {
+      "id": "dados",
+      "label": "DADOS",
+      "href": "https://github.com/GeovaneVrs",
+      "bg": "#173a8c",
+      "fg": "#f4f7ff",
+      "sheen": "#ffffff",
+      "number": "Fluxo",
+      "word": "pipelines",
+      "lines": ["Da fonte ao dado limpo.", "Python trata, a consulta responde."],
+      "alt": "Dados. Da fonte ao dado limpo, com Python."
+    },
+    {
+      "id": "banco",
+      "label": "BANCO",
+      "href": "https://github.com/GeovaneVrs",
+      "bg": "#d9e4ff",
+      "fg": "#10224a",
+      "sheen": "#2f5bff",
+      "number": "SQL",
+      "word": "tabelas",
+      "lines": ["MySQL e o desenho do banco.", "O dado precisa de um lugar."],
+      "alt": "Banco. MySQL e o desenho das tabelas."
+    }
+  ],
+  "quote": "A paixão por tecnologia e o desejo de aprender são as chaves para o sucesso."
+}
