@@ -15,28 +15,3 @@
 <p align="center">
 <a href="https://github.com/GeovaneVrs">GitHub</a> &nbsp;/&nbsp; <a href="https://www.linkedin.com/in/geovane-valerio-213175297/">LinkedIn</a>
 </p>
-
-<details>
-<summary>Como atualizar os cards</summary>
-
-O perfil é uma pilha de SVGs. O GitHub não executa CSS da página, então cada animação mora dentro da própria imagem. Para ver a prévia neste repositório:
-
-```bash
-npm install
-npm run dev
-```
-
-Para mudar o texto, edite `profile.json` e rode:
-
-```bash
-python3 scripts/fetch_contributions.py
-python3 scripts/render_cards.py
-```
-
-O retrato sai da foto pública do GitHub. Para refazê-lo: `python3 scripts/make_portrait.py`.
-
-`STATIC=1 python3 scripts/render_cards.py` desenha o último quadro, sem movimento. A Action `.github/workflows/update-profile-art.yml` refaz o calendário e os cards todo dia.
-
-Para este arquivo virar o perfil, o repositório no GitHub precisa se chamar `GeovaneVrs/GeovaneVrs`.
-
-</details>
