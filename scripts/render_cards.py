@@ -251,7 +251,7 @@ def hero(profile):
 """
     label = (
         f'{profile["first"]} {profile["last"]}, {profile["eyebrow"]}. '
-        f'{profile["bio"][0]} {profile["bio"][1]}'
+        + " ".join(profile["bio"])
     )
     write("hero.svg", svg(W, h, body, ["serif", "serif-i", "sans"], label))
 
