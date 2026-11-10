@@ -31,7 +31,6 @@ STATIC = os.environ.get("STATIC") == "1"
 
 W = 900
 GAP = 12
-SLOT = W / 3
 BOTTOM = 14
 
 PAPER = "#f4f3ef"
@@ -153,13 +152,16 @@ def write(name, content):
     print(f"cards/{name}  {len(content) // 1024} KB")
 
 
-def third(index):
-    """Caixa colorida dentro do terço, com 12px de respiro entre os cards."""
+def tile_box(index, count):
+    """Caixa colorida na faixa, com 12px de respiro entre os cards."""
+    slot = W / count
+    if count == 1:
+        return 0, W, W
     if index == 0:
-        return 0, SLOT - GAP / 2
-    if index == 1:
-        return GAP / 2, SLOT - GAP
-    return GAP / 2, SLOT - GAP / 2
+        return 0, slot - GAP / 2, slot
+    if index == count - 1:
+        return GAP / 2, slot - GAP / 2, slot
+    return GAP / 2, slot - GAP, slot
 
 
 def count_up(number, x, y, size, fill, begin):
@@ -248,14 +250,14 @@ def hero(profile):
 </g>
 """
     label = (
-        f'{profile["first"]} {profile["last"]}. {profile["bio"][0]} '
-        f'{profile["bio"][1]} {profile["eyebrow"]}.'
+        f'{profile["first"]} {profile["last"]}, {profile["eyebrow"]}. '
+        f'{profile["bio"][0]} {profile["bio"][1]}'
     )
     write("hero.svg", svg(W, h, body, ["serif", "serif-i", "sans"], label))
 
 
-def tile(item, index):
-    x, width = third(index)
+def tile(item, index, count):
+    x, width, viewport = tile_box(index, count)
     h = 228
     delay = 3.15 + index * 0.18
     lines = "".join(
@@ -284,7 +286,7 @@ def tile(item, index):
   </g>
 </g>
 """
-    write(f"{item['id']}.svg", svg(SLOT, h, body, ["serif", "serif-i", "sans", "mono"], item["alt"]))
+    write(f"{item['id']}.svg", svg(viewport, h, body, ["serif", "serif-i", "sans", "mono"], item["alt"]))
 
 
 def activity(data):
@@ -471,8 +473,9 @@ def main():
     hero(profile)
     heatmap(summary)
     activity(summary)
-    for index, item in enumerate(profile["tiles"]):
-        tile(item, index)
+    tiles = profile["tiles"]
+    for index, item in enumerate(tiles):
+        tile(item, index, len(tiles))
     quote(profile)
     print(
         f'{summary["total"]} {contrib_label(summary["total"])}, '
