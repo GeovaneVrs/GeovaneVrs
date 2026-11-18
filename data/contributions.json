@@ -1,7 +1,7 @@
 {
   "username": "GeovaneVrs",
-  "fetched_at": "2026-11-17T18:32:15Z",
-  "total_reported": 427,
+  "fetched_at": "2026-11-18T18:00:34Z",
+  "total_reported": 433,
   "days": [
     {
       "date": "2025-11-16",
@@ -2567,9 +2567,16 @@
     },
     {
       "date": "2026-11-17",
-      "count": 0,
-      "level": 0,
+      "count": 3,
+      "level": 1,
       "row": 2,
+      "col": 52
+    },
+    {
+      "date": "2026-11-18",
+      "count": 3,
+      "level": 1,
+      "row": 3,
       "col": 52
     }
   ]
